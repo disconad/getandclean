@@ -19,8 +19,11 @@ This R script is for creating a new tidy data set from a given compilation. (Fou
 
 ###Required R Packages:
 data.table
+
 dplyr
+
 plyr
+
 reshape2
 
 
